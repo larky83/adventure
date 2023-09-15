@@ -1,0 +1,42 @@
+body {background-image: url(woods.jpg);
+        background-size: cover;}
+
+h1 {text-align: center;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.65);
+    font-size: 50px;
+    font-family: Orbitron;
+    margin-top: 30px;}
+
+h3 {text-align: center;
+    font-family: Cinzel;
+    color: white;
+    background-color: rgba(56, 21, 0, 0.87);
+    padding: 10px;
+    border: solid white 1px;
+    margin-top: 80px;
+    margin-left: 20%;
+    margin-right: 20%;}
+
+.quest {text-align: center;
+        font-family: Cinzel;
+        color: white;
+        background-color: rgba(0, 82, 35, 0.76);
+        border: solid white 1px;
+        margin-top: 120px;
+        margin-left: 20%;
+        margin-right: 20%;}      
+
+.options p {display: inline-block;
+            text-align: center;
+            font-family: Cinzel;
+            padding: 10px;
+            margin: 30px;    
+            color: white;
+            background-color: rgba(12, 34, 22, 1);
+            border: solid white 1px;}
+
+a {color:white;
+   text-decoration: none;}
+
+#answer1 {margin-left: 25%;}

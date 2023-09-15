@@ -1,0 +1,38 @@
+body {background-image: url(slave.jpg);
+    background-size: cover;}
+
+h1 {text-align: center;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.65);
+    font-size: 50px;
+    font-family: Orbitron;}
+
+.quest {text-align: center;
+        font-family: Cinzel;
+        color: white;
+        background-color: rgba(0, 82, 35, 0.85);
+        border: solid white 1px;
+        margin-top: 200px;
+        margin-left: 20%;
+        margin-right: 20%;}      
+
+.gameover {text-align: center;}        
+
+.gameover p {
+            text-align: center;
+            font-family: Cinzel;
+            padding: 10px;
+            color: white;
+            background-color: rgba(12, 34, 22, 1);
+            border: solid white 1px;}
+
+a {color:white;
+   text-decoration: none;}
+
+#over {font-size: 50px;
+    background-color: rgba(71, 0, 0, 0.7);
+    margin-left: 30%;
+    margin-right: 30%;}
+
+#newgame {margin-left: 40%;
+    margin-right: 40%;}
